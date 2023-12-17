@@ -1,1 +1,12 @@
-# My_Portfolio
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-weight: 800;
+}
+.first_practice{
+    background-color: darkgoldenrod;
+    color: #000;
+    padding: 100px;
+}
